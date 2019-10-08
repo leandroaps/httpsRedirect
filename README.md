@@ -7,7 +7,6 @@ const httpsRedirect = () => {
 };
 ```
 
-
 **Usage:**
 ```
 httpsRedirect(); // If you are on http://mydomain.com, you are redirected to https://mydomain.com
